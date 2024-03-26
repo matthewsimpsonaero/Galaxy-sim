@@ -27,5 +27,9 @@ r(\phi) = \frac{A}{log(B tan\frac{\phi}{2N})}
 Output simulations:
 
 <p align="center">
-    <img src="https://github.com/matthewsimpsonaero/Basketball-numerical-method/blob/main/Final.gif" alt="Alt Text" width="400" height="300"/>
+    <img src="https://github.com/matthewsimpsonaero/Galaxy-sim/blob/main/GalaxyCollision.gif" alt="Alt Text" width="400" height="300"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/matthewsimpsonaero/Galaxy-sim/blob/main/ParticleClumping.gif" alt="Alt Text" width="400" height="300"/>
 </p>
